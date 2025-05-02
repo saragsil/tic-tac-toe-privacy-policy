@@ -3,23 +3,7 @@ title: Privacy Policy
 layout: default
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Privacy Policy - Tic Tac Toe</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-    body {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 2em;
-      font-family: sans-serif;
-      line-height: 1.6;
-    }
-  </style>
-</head>
-<body>
+
 
 <h1>Privacy Policy</h1>
 
