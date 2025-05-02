@@ -1,41 +1,60 @@
 ---
-title: Tic Tac Toe - Privacy Policy
-layout: default
+title: ""
+layout: none
 ---
 
-# Privacy Policy
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy - Tic Tac Toe</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2em;
+      font-family: sans-serif;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
 
-_Last updated: May 2, 2025_
+<h1>Privacy Policy</h1>
 
-This privacy policy describes how the **Tic Tac Toe** mobile application ("we", "us", or "our") collects, uses, and shares information when you use our app.
+<p><em>Last updated: May 2, 2025</em></p>
 
-## Information We Collect
+<p>This privacy policy describes how the <strong>Tic Tac Toe</strong> mobile application ("we", "us", or "our") collects, uses, and shares information when you use our app.</p>
 
-- We do **not** collect personal information such as name, email, or phone number.
-- The app may use third-party services (like Google AdMob) which may collect anonymous usage data.
-- Anonymous crash and usage data may be collected for improving app performance.
+<h2>Information We Collect</h2>
+<ul>
+  <li>We do <strong>not</strong> collect personal information such as name, email, or phone number.</li>
+  <li>The app may use third-party services (like Google AdMob) which may collect anonymous usage data.</li>
+  <li>Anonymous crash and usage data may be collected for improving app performance.</li>
+</ul>
 
-## Use of Information
+<h2>Use of Information</h2>
+<ul>
+  <li>We use the collected data to maintain and improve the quality of the app.</li>
+  <li>Ads may be shown using <strong>Google AdMob</strong>, which may collect anonymized data as per their own policies.</li>
+</ul>
 
-- We use the collected data to maintain and improve the quality of the app.
-- Ads may be shown using **Google AdMob**, which may collect anonymized data as per their own policies.
+<h2>Children’s Privacy</h2>
+<p>The app is designed to be suitable for <strong>all ages</strong>, including children under 13. It does <strong>not contain inappropriate content</strong> or request any personal information.</p>
 
-## Children’s Privacy
+<h2>Third-party Services</h2>
+<p>We may use third-party services, such as:</p>
+<ul>
+  <li>Google AdMob (for advertisements) – see <a href="https://policies.google.com/privacy" target="_blank">Google's Privacy Policy</a></li>
+</ul>
 
-The app is designed to be suitable for **all ages**, including children under 13. It does **not contain inappropriate content** or request any personal information.
+<h2>Changes to This Policy</h2>
+<p>We may update this policy from time to time. Please review it periodically for any changes.</p>
 
-## Third-party Services
+<h2>Contact Us</h2>
+<p>If you have questions or concerns about this privacy policy, contact us at:<br>
+📧 gamezorck@gmail.com</p>
 
-We may use third-party services, such as:
-
-- Google AdMob (for advertisements)  
-Refer to [Google's Privacy Policy](https://policies.google.com/privacy) for details.
-
-## Changes to This Policy
-
-We may update this policy from time to time. Please review it periodically for any changes.
-
-## Contact Us
-
-If you have questions or concerns about this privacy policy, contact us at:  
-📧 gamezorck@gmail.com
+</body>
+</html>
