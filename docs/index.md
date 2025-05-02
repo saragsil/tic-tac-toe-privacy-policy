@@ -38,4 +38,4 @@ We may update this policy from time to time. Please review it periodically for a
 ## Contact Us
 
 If you have questions or concerns about this privacy policy, contact us at:  
-📧 **gamezorck@gmail.com
+📧 gamezorck@gmail.com
