@@ -1,6 +1,6 @@
 ---
-title: ""
-layout: none
+title: Privacy Policy
+layout: default
 ---
 
 <!DOCTYPE html>
